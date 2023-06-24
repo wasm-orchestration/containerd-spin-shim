@@ -28,4 +28,4 @@ Forked from [deislabs/containerd-wasm-shims](https://github.com/deislabs/contain
     cargo build --release
     ```
 
-4. Copy the built shim binary from `target/release/containerd-shim-spin-v1` to the Kubernetes cluster nodes. More details are available in the [wasm-orchestration/wasm-orchestration-scripts](https://gitlab.com/wasm-orchestration/wasm-orchestration-scripts) repository.
+4. Copy the built shim binary from `target/release/containerd-shim-spin-v1` to the Kubernetes cluster nodes. More details are available in the [wasm-orchestration/wasm-orchestration-scripts](https://github.com/wasm-orchestration/wasm-orchestration-scripts) repository.
